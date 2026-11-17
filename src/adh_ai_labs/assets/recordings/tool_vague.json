@@ -1,0 +1,44 @@
+{
+ "notes_sha": "1cbb73398689410c",
+ "rows": {
+  "N05": {
+   "arguments": {
+    "age": 68,
+    "diabetes": false,
+    "female": false,
+    "heart_failure": false,
+    "hypertension": true,
+    "stroke_tia": false,
+    "vascular": false
+   },
+   "called": true,
+   "score": 2
+  },
+  "N17": {
+   "arguments": {
+    "age": 78,
+    "diabetes": true,
+    "female": false,
+    "heart_failure": false,
+    "hypertension": false,
+    "stroke_tia": false,
+    "vascular": true
+   },
+   "called": true,
+   "score": 4
+  },
+  "N26": {
+   "arguments": {
+    "age": 76,
+    "diabetes": true,
+    "female": true,
+    "heart_failure": false,
+    "hypertension": true,
+    "stroke_tia": false,
+    "vascular": false
+   },
+   "called": true,
+   "score": 5
+  }
+ }
+}

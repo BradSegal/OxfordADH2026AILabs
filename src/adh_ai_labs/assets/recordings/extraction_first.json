@@ -1,0 +1,172 @@
+{
+ "inputs": {
+  "system": "Fill in each field for the patient this clinic note is about, using only what the note says.\n- anticoagulant: the anticoagulant the patient takes, or 'none', or 'not stated' if the note does not say"
+ },
+ "notes_sha": "1cbb73398689410c",
+ "rows": {
+  "N01": {
+   "anticoagulant": "apixaban",
+   "atrial_fibrillation": true
+  },
+  "N02": {
+   "anticoagulant": "none",
+   "atrial_fibrillation": false
+  },
+  "N03": {
+   "anticoagulant": "edoxaban",
+   "atrial_fibrillation": true
+  },
+  "N04": {
+   "anticoagulant": "not stated",
+   "atrial_fibrillation": true
+  },
+  "N05": {
+   "anticoagulant": "apixaban",
+   "atrial_fibrillation": true
+  },
+  "N06": {
+   "anticoagulant": "not stated",
+   "atrial_fibrillation": false
+  },
+  "N07": {
+   "anticoagulant": "apixaban",
+   "atrial_fibrillation": true
+  },
+  "N08": {
+   "anticoagulant": "rivaroxaban",
+   "atrial_fibrillation": false
+  },
+  "N09": {
+   "anticoagulant": "not stated",
+   "atrial_fibrillation": true
+  },
+  "N10": {
+   "anticoagulant": "none",
+   "atrial_fibrillation": false
+  },
+  "N11": {
+   "anticoagulant": "apixaban",
+   "atrial_fibrillation": true
+  },
+  "N12": {
+   "anticoagulant": "none",
+   "atrial_fibrillation": false
+  },
+  "N13": {
+   "anticoagulant": "apixaban",
+   "atrial_fibrillation": true
+  },
+  "N14": {
+   "anticoagulant": "not stated",
+   "atrial_fibrillation": true
+  },
+  "N15": {
+   "anticoagulant": "edoxaban",
+   "atrial_fibrillation": true
+  },
+  "N16": {
+   "anticoagulant": "rivaroxaban",
+   "atrial_fibrillation": false
+  },
+  "N17": {
+   "anticoagulant": "apixaban",
+   "atrial_fibrillation": true
+  },
+  "N18": {
+   "anticoagulant": "not stated",
+   "atrial_fibrillation": false
+  },
+  "N19": {
+   "anticoagulant": "none",
+   "atrial_fibrillation": true
+  },
+  "N20": {
+   "anticoagulant": "not stated",
+   "atrial_fibrillation": false
+  },
+  "N21": {
+   "anticoagulant": "rivaroxaban",
+   "atrial_fibrillation": true
+  },
+  "N22": {
+   "anticoagulant": "ticagrelor",
+   "atrial_fibrillation": false
+  },
+  "N23": {
+   "anticoagulant": "not stated",
+   "atrial_fibrillation": false
+  },
+  "N24": {
+   "anticoagulant": "edoxaban",
+   "atrial_fibrillation": true
+  },
+  "N25": {
+   "anticoagulant": "apixaban",
+   "atrial_fibrillation": false
+  },
+  "N26": {
+   "anticoagulant": "apixaban",
+   "atrial_fibrillation": true
+  },
+  "N27": {
+   "anticoagulant": "none",
+   "atrial_fibrillation": false
+  },
+  "N28": {
+   "anticoagulant": "edoxaban",
+   "atrial_fibrillation": true
+  },
+  "N29": {
+   "anticoagulant": "not stated",
+   "atrial_fibrillation": false
+  },
+  "N30": {
+   "anticoagulant": "rivaroxaban",
+   "atrial_fibrillation": true
+  },
+  "N31": {
+   "anticoagulant": "none",
+   "atrial_fibrillation": false
+  },
+  "N32": {
+   "anticoagulant": "apixaban",
+   "atrial_fibrillation": true
+  },
+  "N33": {
+   "anticoagulant": "apixaban",
+   "atrial_fibrillation": true
+  },
+  "N34": {
+   "anticoagulant": "not stated",
+   "atrial_fibrillation": true
+  },
+  "N35": {
+   "anticoagulant": "none",
+   "atrial_fibrillation": false
+  },
+  "N36": {
+   "anticoagulant": "edoxaban",
+   "atrial_fibrillation": true
+  },
+  "N37": {
+   "anticoagulant": "apixaban",
+   "atrial_fibrillation": true
+  },
+  "N38": {
+   "anticoagulant": "not stated",
+   "atrial_fibrillation": false
+  },
+  "N39": {
+   "anticoagulant": "apixaban",
+   "atrial_fibrillation": true
+  },
+  "N40": {
+   "anticoagulant": "not stated",
+   "atrial_fibrillation": false
+  },
+  "N41": {
+   "anticoagulant": "not stated",
+   "atrial_fibrillation": true
+  }
+ }
+}

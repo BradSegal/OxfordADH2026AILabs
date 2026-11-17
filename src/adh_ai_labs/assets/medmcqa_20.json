@@ -1,0 +1,242 @@
+[
+ {
+  "id": "9a901f04-8eb8-4e4f-a332-14cf2a3c70a3",
+  "subject": "Pharmacology",
+  "question": "Clavulanic acid added to ampicillin causes:",
+  "options": {
+   "A": "Increase effectivity against gram-negative organisms",
+   "B": "Inhibition of β-lactamases",
+   "C": "Increases the effectiveness against delta lactamase producing organism",
+   "D": "Increase effectivity against gram-positive organisms"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "e7f023ea-2147-47d3-9f2a-61fb60a900be",
+  "subject": "Pharmacology",
+  "question": "Which of these drugs is an antidote for fibrinolytic therapy?",
+  "options": {
+   "A": "Epsilon aminocaproic acid",
+   "B": "Protamine",
+   "C": "Heparin",
+   "D": "Streptokinase"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "363aca43-6b66-4640-9cfe-93057f5c50f1",
+  "subject": "Pharmacology",
+  "question": "Major mechanism of action of nitrates in acute attack of angina is:",
+  "options": {
+   "A": "Coronary vasodilation",
+   "B": "Decrease in preload",
+   "C": "Decrease in afterload",
+   "D": "Decrease in heart rate"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "148f5ca1-0e61-4e4a-a19a-47df89cb1689",
+  "subject": "Medicine",
+  "question": "In Myocardial infarction, the major pathology is",
+  "options": {
+   "A": "Ischemia caused by dynamic obstruction of a coronary artery",
+   "B": "Myocardial necrosis caused by acute occlusion of a coronary artery",
+   "C": "Ischemia due to fixed atheromatous stenosis of one or more coronal artery",
+   "D": "Altered conduction due to ischemia or infarction"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "edbdb125-7a27-4740-9e03-b379ae34773d",
+  "subject": "Medicine",
+  "question": "Window period for thrombolysis, from symptom onset, in a patient with acute ischaemic stroke is:",
+  "options": {
+   "A": "1.5 hours",
+   "B": "2.5 hours",
+   "C": "3.5 hours",
+   "D": "4.5 hours"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "92ee38b6-68d0-4626-8c03-053db30d77dc",
+  "subject": "Medicine",
+  "question": "Sudden death in a patient with an acute myocardial infarction is most commonly due to",
+  "options": {
+   "A": "Aortic dissection",
+   "B": "Atrial fibrillation",
+   "C": "Cardiac tamponade",
+   "D": "Ventricular fibrillation"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "1f93c541-baaf-40f2-bf91-31be29732da2",
+  "subject": "Pharmacology",
+  "question": "Treatment of choice for anaphylactic shock is:",
+  "options": {
+   "A": "Adrenaline 0.5 mL of 1:1000 solution by intramuscular route",
+   "B": "Adrenaline 1 mL of 1:10000 by intravenous route",
+   "C": "Atropine 3 mg intravenously",
+   "D": "Adenosine 12 mg intravenously"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "3fd17b81-42d6-41dc-915f-d4b612074dc5",
+  "subject": "Pharmacology",
+  "question": "When broad-spectrum antibiotics are administered with coumarin anticoagulants, the anticoagulant action may be:",
+  "options": {
+   "A": "Reduced because of enhanced hepatic drug metabolism",
+   "B": "Reduced because of increased protein-binding",
+   "C": "Increased because of reduction of vitamin 'K' sources",
+   "D": "Increased because of decreased renal excretion of the anticoagulant"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "d3d896df-5856-43da-9baa-4f4ddaefde74",
+  "subject": "Pharmacology",
+  "question": "The drug which gives orange colour to the urine is:",
+  "options": {
+   "A": "Rifampicin",
+   "B": "Ethambutol",
+   "C": "INH",
+   "D": "Streptomycin"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "70d87e90-4362-422a-9611-847021b23c33",
+  "subject": "Biochemistry",
+  "question": "In myocardial infarction the first enzyme to rise:",
+  "options": {
+   "A": "CPK",
+   "B": "LDH",
+   "C": "SGOT",
+   "D": "Amylase"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "cbf6cefb-7428-4d61-9940-03967a1a56b8",
+  "subject": "Medicine",
+  "question": "ECG with \"mean\" axis of 90 degrees. In which lead there would be the maximum voltage of R wave?",
+  "options": {
+   "A": "III",
+   "B": "I",
+   "C": "aVF",
+   "D": "aVL"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "3be9da5f-c0da-4e42-bbfe-a6a1373a7c5d",
+  "subject": "Medicine",
+  "question": "Crescendo angina is",
+  "options": {
+   "A": "Stable angina",
+   "B": "Heart failure",
+   "C": "Unstable angina",
+   "D": "MI"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "c2cf6fda-d767-48e5-acbe-c663d376240b",
+  "subject": "Medicine",
+  "question": "Acetone breath is a feature of:",
+  "options": {
+   "A": "Liver disease",
+   "B": "Sinusitis",
+   "C": "Renal disease",
+   "D": "Diabetes mellitus"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "7a3a771f-2b56-4af8-b967-3c991b394bc6",
+  "subject": "Pharmacology",
+  "question": "Compared to unfractionated heparin, Low molecular weight heparin (LMWH) has reliable anticoagulant action because:",
+  "options": {
+   "A": "It interferes with thrombin and antithrombin III simultaneously",
+   "B": "It is less protein bound",
+   "C": "It is given subcutaneously",
+   "D": "It is cleared by macrophages"
+  },
+  "answer": "B"
+ },
+ {
+  "id": "f447a6cc-d72e-4d0b-8330-ffc5c840394f",
+  "subject": "Pharmacology",
+  "question": "A patient of septic shock was given intravenous norepinephrine. The response to this drug is best checked by:",
+  "options": {
+   "A": "Increase in heart rate",
+   "B": "Decrease in heart rate",
+   "C": "Increase in mean arterial pressure",
+   "D": "Decreased renal perfusion and reduced urine output"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "d454ee11-50e1-475c-b73f-e1c32f66d980",
+  "subject": "Medicine",
+  "question": "Valvular lesion most often resulting from myocardial infarction is:",
+  "options": {
+   "A": "Aortic stenosis",
+   "B": "Mitral stenosis",
+   "C": "Mitral regurgitation",
+   "D": "Pulmonary stenosis"
+  },
+  "answer": "C"
+ },
+ {
+  "id": "ae07edee-fc24-489b-8c84-b89c77378ed8",
+  "subject": "Medicine",
+  "question": "Addison's disease is due to:",
+  "options": {
+   "A": "Chronic insufficiency of adrenal cortex",
+   "B": "Chronic insufficiency of adrenal medulla",
+   "C": "Insufficiency of pancreas",
+   "D": "Hypofunction of thyroid gland"
+  },
+  "answer": "A"
+ },
+ {
+  "id": "1d405e6b-5cd9-4ff7-ba6d-f7f748ad6050",
+  "subject": "Pharmacology",
+  "question": "Low apparent volume of distribution of drug indicates that:",
+  "options": {
+   "A": "Drug has low half life",
+   "B": "Drug has low bioavailability",
+   "C": "Drug has low efficacy",
+   "D": "Drug is not extensively distributed to tissue"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "13e7b27f-6f0c-4366-955b-16836ed6f6cd",
+  "subject": "Pathology",
+  "question": "Which of the following anticoagulant is used for electrolyte estimation?",
+  "options": {
+   "A": "EDTA",
+   "B": "Citrate",
+   "C": "Sodium fluoride",
+   "D": "Lithium heparin"
+  },
+  "answer": "D"
+ },
+ {
+  "id": "4f22926c-1054-4056-8530-dd84d32600f9",
+  "subject": "Medicine",
+  "question": "Monitoring and diagnosis after completion of H. pylori treatment is done through",
+  "options": {
+   "A": "Gastric acid test",
+   "B": "urea breath test",
+   "C": "bacterial culture of stool",
+   "D": "sodium chloride test"
+  },
+  "answer": "B"
+ }
+]
